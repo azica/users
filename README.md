@@ -51,4 +51,5 @@ src/
 #### Контакты
 
 Если у вас возникли вопросы или предложения, пожалуйста, свяжитесь со мной:
-Email: azicakcl@gmail.com GitHub: azica
+Email: azicakcl@gmail.com 
+GitHub: azica
