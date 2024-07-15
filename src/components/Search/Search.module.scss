@@ -1,0 +1,31 @@
+.search {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid $black;
+    border-radius: 6px;
+    padding: 8px 12px;
+
+    &>svg {
+        width: 20px;
+        height: 20px;
+        color: $main;
+        cursor: pointer;
+    }
+}
+
+.input {
+    width: 100%;
+    display: block;
+    height: 100%;
+    color: $black;
+    border: none;
+    font-size: 16px;
+
+    &::placeholder {
+        font-size: 16px;
+        color: $darkgray;
+    }
+
+}
